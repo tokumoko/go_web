@@ -16,5 +16,5 @@ func input() (int) {
 func main() {
 	sc.Split(bufio.ScanWords)
 	N := input()
-	
+	fmt.Println(N)
 }

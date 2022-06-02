@@ -4,10 +4,7 @@ import (
 	"fmt"
 	"./anima"
 )
-//コメントアウト
-/*
-aaaaaaaaafaaaaaaaaa
-*/
+
 func main() {
 	fmt.Println(anima.Abc())
 
