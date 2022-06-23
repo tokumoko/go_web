@@ -7,5 +7,5 @@ import (
 
 
 func main() {
-	fmt.Printf("uint32 max = %d\n", math.MaxUint32)
+	fmt.Printf("uint32 max = %d\n", math.MaxInt32)
 }
