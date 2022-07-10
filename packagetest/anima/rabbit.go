@@ -1,5 +1,5 @@
 package anima
 
 func Kuruit() string {
-	return "I"
+	return "eats"
 }

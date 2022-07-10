@@ -15,8 +15,7 @@ func TestMonk(t *testing.T) {
 	expect := "K"
 	actual := Monkey()
 	if expect != actual {
-		t.Errorf("%s != %s", expect, actual)
-	}
+		t.Errorf("%s != %s", expect, actual
 }
 func TestRab(t *testing.T) {
 	expect := "I"
